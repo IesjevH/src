@@ -9,8 +9,8 @@
   body {
     background: linear-gradient(
       90deg,
-      rgba(48, 16, 255, 1) 0%,
-      rgba(100, 115, 255, 1) 100%
+      rgb(137, 136, 138) 0%,
+      rgb(69, 69, 69) 100%
     );
   }
   .todo-app {
@@ -97,8 +97,8 @@
     color: #fff;
     background: linear-gradient(
       90deg,
-      rgba(255, 118, 20, 1) 0%,
-      rgba(255, 84, 17, 1) 100%
+      rgb(255, 20, 169) 0%,
+      rgb(203, 2, 150) 100%
     );
   
     padding: 16px;
@@ -109,24 +109,24 @@
   .todo-row:nth-child(4n + 1) {
     background: linear-gradient(
       90deg,
-      rgba(93, 12, 255, 1) 0%,
-      rgba(155, 0, 250, 1) 100%
+      rgb(214, 12, 255) 0%,
+      rgb(148, 1, 184) 100%
     );
   }
   
   .todo-row:nth-child(4n + 2) {
     background: linear-gradient(
       90deg,
-      rgba(255, 12, 241, 1) 0%,
-      rgba(250, 0, 135, 1) 100%
+      rgb(12, 133, 255) 0%,
+      rgb(1, 75, 179) 100%
     );
   }
   
   .todo-row:nth-child(4n + 3) {
     background: linear-gradient(
       90deg,
-      rgba(20, 159, 255, 1) 0%,
-      rgba(17, 122, 255, 1) 100%
+      rgb(5, 223, 37) 0%,
+      rgb(15, 169, 10) 100%
     );
   }
   
